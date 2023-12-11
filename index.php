@@ -16,8 +16,8 @@
         <label for="text">Frase</label>
         <input type="text" id="text" name="text">
 
-        <label for="badwords">Parola da eliminare</label>
-        <input type="text" id="badwords" name="badwords">
+        <label for="badword">Parola da eliminare</label>
+        <input type="text" id="badword" name="badword">
 
         <button type="submit">Invia</button>
     </form>
